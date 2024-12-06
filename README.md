@@ -36,14 +36,19 @@ The system uses three primary tables:
 ### Screenshots
 LOGIN PAGE
 ![Screenshot (17)](https://github.com/user-attachments/assets/79d2b7be-2921-46c8-a19e-2d6fd9b00995)
+
 STUDENT REGISTER PAGE
 ![Screenshot 2024-12-06 143600](https://github.com/user-attachments/assets/37c85414-34d8-4f52-890b-86770953435d)
+
 TEACHER REGISTER PAGE
 ![Screenshot 2024-12-06 143942](https://github.com/user-attachments/assets/cf8cc015-ab44-469f-9e76-afab658daab2)
+
 STUDENT DASHBOARD
 ![Screenshot (18)](https://github.com/user-attachments/assets/7d94fa2b-62e3-4f29-ad09-0d349da539f3)
+
 TEACHER DASHBOARD
 ![Screenshot (19)](https://github.com/user-attachments/assets/8c0bb064-1b45-424b-b56b-dcd2542805e9)
+
 ADMIN PAGES
 ![Screenshot (20)](https://github.com/user-attachments/assets/38956487-2378-4198-ab21-7fe5a642fe84)
 
